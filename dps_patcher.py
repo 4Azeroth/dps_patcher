@@ -61,4 +61,5 @@ def main():
     copyfile(src_file, dest_file)
     apply_patch(patch_file, dest_file)
 
+
 main()
